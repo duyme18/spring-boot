@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-boot.iml" filepath="$PROJECT_DIR$/.idea/spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-autowired-primary-qualifer/springboot-autowired-primary-qualifer.iml" filepath="$PROJECT_DIR$/springboot-autowired-primary-qualifer/springboot-autowired-primary-qualifer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-beanlifecycle-postcontruct-predestroy/springboot-beanlifecycle-postcontruct-predestroy.iml" filepath="$PROJECT_DIR$/springboot-beanlifecycle-postcontruct-predestroy/springboot-beanlifecycle-postcontruct-predestroy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-component-autowired/springboot-component-autowired.iml" filepath="$PROJECT_DIR$/springboot-component-autowired/springboot-component-autowired.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-component-scan/springboot-component-scan.iml" filepath="$PROJECT_DIR$/springboot-component-scan/springboot-component-scan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-configuration-bean/springboot-configuration-bean.iml" filepath="$PROJECT_DIR$/springboot-configuration-bean/springboot-configuration-bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-conponent-service-repository/springboot-conponent-service-repository.iml" filepath="$PROJECT_DIR$/springboot-conponent-service-repository/springboot-conponent-service-repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-requestmapping-postmapping-modelattribute-requestparam/springboot-requestmapping-postmapping-modelattribute-requestparam.iml" filepath="$PROJECT_DIR$/springboot-requestmapping-postmapping-modelattribute-requestparam/springboot-requestmapping-postmapping-modelattribute-requestparam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-springapplicationconfig-value/springboot-springapplicationconfig-value.iml" filepath="$PROJECT_DIR$/springboot-springapplicationconfig-value/springboot-springapplicationconfig-value.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-thymeleaf-expression-full/springboot-thymeleaf-expression-full.iml" filepath="$PROJECT_DIR$/springboot-thymeleaf-expression-full/springboot-thymeleaf-expression-full.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-web-helloworld-controller-thymeleaf/springboot-web-helloworld-controller-thymeleaf.iml" filepath="$PROJECT_DIR$/springboot-web-helloworld-controller-thymeleaf/springboot-web-helloworld-controller-thymeleaf.iml" />
+    </modules>
+  </component>
+</project>

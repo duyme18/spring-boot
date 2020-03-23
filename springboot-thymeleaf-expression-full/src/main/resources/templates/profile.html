@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Profile</title>
+    <!--css-->
+    <link rel="stylesheet" th:href="@{/css/bootstrap.css}">
+
+    <!--js-->
+    <script th:src="@{/js/bootstrap.js}"></script>
+</head>
+<body>
+<h1 th:utext="#{hdd.hello}"></h1>
+<h2>Hoàng Đức Duy PROFILE</h2>
+
+<!--
+${...} để lấy giá trị của biến profile trong Model
+*{...} để lấy giá trị của biến info đã chỉ định,
+-->
+<ul>
+    <li th:each="info: ${profile}">
+        <span th:text="*{info.key}"></span> : <span th:text="*{info.value}"></span>
+    </li>
+</ul>
+</body>
+</html>
