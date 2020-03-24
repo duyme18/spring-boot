@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <meta charset="UTF-8">
+    <title>HDD Todo</title>
+</head>
+<body>
+<h1>TODO</h1>
+<h1 style="color:red" th:text="#{hdd.message.failed}"></h1>
+<a th:href="@{listTodo}" th:text="#{hdd.value.viewListTodo}" class="btn btn-primary"></a>
+</body>
+</html>

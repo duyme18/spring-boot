@@ -2,24 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34d2ac48-0a38-4ac0-bfe5-e03d28c0d4a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/springboot-jpa-method-query/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-jpa-method-query/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-jpa-method-query/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-jpa-method-query/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-jpa-method-query/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-jpa-method-query/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-jpa-method-query/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-jpa-method-query/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-jpa-method-query/src/main/java/com/example/demo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-jpa-method-query/src/main/java/com/example/demo/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-jpa-method-query/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-jpa-method-query/src/test/java/com/example/demo/DemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-thymeleaf-mysql-i18n-web-demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-thymeleaf-mysql-i18n-web-demo/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-thymeleaf-mysql-i18n-web-demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-thymeleaf-mysql-i18n-web-demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-thymeleaf-mysql-i18n-web-demo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-thymeleaf-mysql-i18n-web-demo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-thymeleaf-mysql-i18n-web-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-thymeleaf-mysql-i18n-web-demo/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-thymeleaf-mysql-i18n-web-demo/src/main/java/com/example/demo/config/TodoConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-thymeleaf-mysql-i18n-web-demo/src/main/java/com/example/demo/controller/TodoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-thymeleaf-mysql-i18n-web-demo/src/main/java/com/example/demo/model/Todo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-thymeleaf-mysql-i18n-web-demo/src/main/java/com/example/demo/model/TodoValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-thymeleaf-mysql-i18n-web-demo/src/main/java/com/example/demo/repository/TodoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-thymeleaf-mysql-i18n-web-demo/src/main/java/com/example/demo/service/TodoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-thymeleaf-mysql-i18n-web-demo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-thymeleaf-mysql-i18n-web-demo/src/main/resources/i18n/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-thymeleaf-mysql-i18n-web-demo/src/main/resources/i18n/messages_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-thymeleaf-mysql-i18n-web-demo/src/main/resources/i18n/messages_vi.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-thymeleaf-mysql-i18n-web-demo/src/main/resources/static/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-thymeleaf-mysql-i18n-web-demo/src/main/resources/static/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-thymeleaf-mysql-i18n-web-demo/src/main/resources/static/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-thymeleaf-mysql-i18n-web-demo/src/main/resources/templates/addTodo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-thymeleaf-mysql-i18n-web-demo/src/main/resources/templates/failed.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-thymeleaf-mysql-i18n-web-demo/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-thymeleaf-mysql-i18n-web-demo/src/main/resources/templates/listTodo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-thymeleaf-mysql-i18n-web-demo/src/main/resources/templates/success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-thymeleaf-mysql-i18n-web-demo/src/test/java/com/example/demo/DemoApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-jpa-mysql/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-jpa-mysql/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +43,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -52,7 +66,6 @@
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
@@ -70,7 +83,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/springboot-requestmapping-postmapping-modelattribute-requestparam/src/main/resources/static/js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springboot-thymeleaf-mysql-i18n-web-demo/src/main/resources/templates" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -78,11 +91,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\spring-boot\springboot-thymeleaf-mysql-i18n-web-demo\src\main\resources\templates" />
+      <recent name="D:\Project\spring-boot\springboot-thymeleaf-mysql-i18n-web-demo\src\main\resources\static" />
       <recent name="D:\Project\spring-boot\springboot-requestmapping-postmapping-modelattribute-requestparam\src\main\resources\static\js" />
       <recent name="D:\Project\spring-boot\springboot-requestmapping-postmapping-modelattribute-requestparam\src\main\resources\static\css" />
       <recent name="D:\Project\spring-boot\springboot-web-helloworld-controller-thymeleaf\src\main\resources\templates" />
-      <recent name="D:\Project\spring-boot\springboot-web-helloworld-controller-thymeleaf\src\main\java\com\example\demo" />
-      <recent name="D:\Project\spring-boot\springboot-springapplicationconfig-value\src\main\java\com\example\demo" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.example.demo" />
@@ -98,9 +111,9 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.DemoApplication (6)">
-    <configuration name="DemoApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="springboot-web-helloworld-controller-thymeleaf" />
+  <component name="RunManager" selected="Spring Boot.DemoApplication (2)">
+    <configuration name="DemoApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springboot-thymeleaf-mysql-i18n-web-demo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.demo.*" />
@@ -173,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.DemoApplication (2)" />
         <item itemvalue="Spring Boot.DemoApplication (6)" />
         <item itemvalue="Spring Boot.DemoApplication (4)" />
         <item itemvalue="Spring Boot.DemoApplication (5)" />
         <item itemvalue="Spring Boot.DemoApplication (3)" />
-        <item itemvalue="Spring Boot.DemoApplication (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +241,7 @@
       <workItem from="1584960325740" duration="134000" />
       <workItem from="1585016111077" duration="6143000" />
       <workItem from="1585030608558" duration="3068000" />
-      <workItem from="1585035755517" duration="4297000" />
+      <workItem from="1585035755517" duration="7027000" />
     </task>
     <servers />
   </component>
@@ -251,45 +264,45 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584955969931" />
-    <state width="1474" height="260" key="GridCell.Tab.0.bottom" timestamp="1585042038510">
+    <state width="1474" height="260" key="GridCell.Tab.0.bottom" timestamp="1585045789531">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1474" height="260" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585042038510" />
+    <state width="1474" height="260" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585045789531" />
     <state width="1474" height="260" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585021356640" />
-    <state width="1474" height="260" key="GridCell.Tab.0.center" timestamp="1585042038510">
+    <state width="1474" height="260" key="GridCell.Tab.0.center" timestamp="1585045789530">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1474" height="260" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585042038510" />
+    <state width="1474" height="260" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585045789530" />
     <state width="1474" height="260" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585021356639" />
-    <state width="1474" height="260" key="GridCell.Tab.0.left" timestamp="1585042038510">
+    <state width="1474" height="260" key="GridCell.Tab.0.left" timestamp="1585045789530">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1474" height="260" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585042038510" />
+    <state width="1474" height="260" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585045789530" />
     <state width="1474" height="260" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585021356639" />
-    <state width="1474" height="260" key="GridCell.Tab.0.right" timestamp="1585042038510">
+    <state width="1474" height="260" key="GridCell.Tab.0.right" timestamp="1585045789530">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1474" height="260" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585042038510" />
+    <state width="1474" height="260" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585045789530" />
     <state width="1474" height="260" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585021356640" />
-    <state width="1474" height="260" key="GridCell.Tab.1.bottom" timestamp="1585042038510">
+    <state width="1474" height="260" key="GridCell.Tab.1.bottom" timestamp="1585045789531">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1474" height="260" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585042038510" />
+    <state width="1474" height="260" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585045789531" />
     <state width="1474" height="260" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585021356640" />
-    <state width="1474" height="260" key="GridCell.Tab.1.center" timestamp="1585042038510">
+    <state width="1474" height="260" key="GridCell.Tab.1.center" timestamp="1585045789531">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1474" height="260" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585042038510" />
+    <state width="1474" height="260" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585045789531" />
     <state width="1474" height="260" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585021356640" />
-    <state width="1474" height="260" key="GridCell.Tab.1.left" timestamp="1585042038510">
+    <state width="1474" height="260" key="GridCell.Tab.1.left" timestamp="1585045789531">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1474" height="260" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585042038510" />
+    <state width="1474" height="260" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585045789531" />
     <state width="1474" height="260" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585021356640" />
-    <state width="1474" height="260" key="GridCell.Tab.1.right" timestamp="1585042038510">
+    <state width="1474" height="260" key="GridCell.Tab.1.right" timestamp="1585045789531">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1474" height="260" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585042038510" />
+    <state width="1474" height="260" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585045789531" />
     <state width="1474" height="260" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585021356640" />
     <state x="490" y="175" key="Maven.ArtifactSearchDialog" timestamp="1584946687867">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -303,9 +316,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="636" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585035781128" />
-    <state x="342" y="218" key="new project wizard" timestamp="1585038943321">
+    <state x="342" y="218" key="new project wizard" timestamp="1585043380786">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="342" y="218" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585038943321" />
+    <state x="342" y="218" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585043380786" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1585044328462">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585044328462" />
   </component>
 </project>

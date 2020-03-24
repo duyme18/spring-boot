@@ -10,6 +10,7 @@
         <module name="springboot-requestmapping-postmapping-modelattribute-requestparam" />
         <module name="springboot-component-scan" />
         <module name="springboot-conponent-service-repository" />
+        <module name="springboot-thymeleaf-mysql-i18n-web-demo" />
         <module name="springboot-autowired-primary-qualifer" />
         <module name="springboot-springapplicationconfig-value" />
         <module name="springboot-jpa-method-query" />
@@ -36,6 +37,7 @@
       <module name="springboot-springapplicationconfig-value" target="1.8" />
       <module name="springboot-springconfiguration-bean" target="1.8" />
       <module name="springboot-thymeleaf-expression-full" target="1.8" />
+      <module name="springboot-thymeleaf-mysql-i18n-web-demo" target="1.8" />
       <module name="springboot-web-helloworld-controller-thymeleaf" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -55,6 +57,7 @@
       <module name="springboot-springapplicationconfig-value" options="-parameters" />
       <module name="springboot-springconfiguration-bean" options="-parameters" />
       <module name="springboot-thymeleaf-expression-full" options="-parameters" />
+      <module name="springboot-thymeleaf-mysql-i18n-web-demo" options="-parameters" />
       <module name="springboot-web-helloworld-controller-thymeleaf" options="-parameters" />
     </option>
   </component>

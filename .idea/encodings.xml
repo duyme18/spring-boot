@@ -12,6 +12,7 @@
     <file url="file://$PROJECT_DIR$/springboot-requestmapping-postmapping-modelattribute-requestparam/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-springapplicationconfig-value/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-thymeleaf-expression-full/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-thymeleaf-mysql-i18n-web-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-web-helloworld-controller-thymeleaf/src/main/java" charset="UTF-8" />
   </component>
 </project>
