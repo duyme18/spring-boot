@@ -5,7 +5,6 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
 
-
 @SpringBootApplication
 @RequiredArgsConstructor
 public class DemoApplication {
@@ -36,7 +35,7 @@ public class DemoApplication {
         System.out.println("User2: " + user2);
 
         // Xóa User khỏi DB
-        userRepository.delete(user);
+        userRepository.delete(user2);
 
         // In ra kiểm tra xem userId còn tồn tại trong DB không
         User user3 = userRepository.findById(userId).orElse(null);
