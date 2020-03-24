@@ -17,6 +17,7 @@
         <option value="$PROJECT_DIR$/springboot-conponent-service-repository/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-thymeleaf-expression-full/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-requestmapping-postmapping-modelattribute-requestparam/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-jpa-mysql/pom.xml" />
       </list>
     </option>
   </component>
