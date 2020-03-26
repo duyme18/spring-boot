@@ -1,0 +1,9 @@
+hdd:
+  email: duyme18@gmail.com
+  googleAnalyticsId: HDD-123
+  authors:
+    - hdd
+    - nht
+  exampleMap:
+    key1: hello
+    key2: world

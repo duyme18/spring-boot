@@ -21,6 +21,8 @@
         <option value="$PROJECT_DIR$/springboot-jpa-method-query/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-thymeleaf-mysql-i18n-web-demo/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-restfull-api-pathraviable-requestbody/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-exception-handling-exception-handler-restcontroller-advice-response-status/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-configuration-properties/pom.xml" />
       </list>
     </option>
   </component>
