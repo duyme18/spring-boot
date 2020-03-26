@@ -23,6 +23,8 @@
         <option value="$PROJECT_DIR$/springboot-restfull-api-pathraviable-requestbody/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-exception-handling-exception-handler-restcontroller-advice-response-status/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-configuration-properties/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-spring-profile/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-test-spring-boot/pom.xml" />
       </list>
     </option>
   </component>

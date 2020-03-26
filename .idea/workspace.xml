@@ -2,44 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34d2ac48-0a38-4ac0-bfe5-e03d28c0d4a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_atteo_evo_inflector_1_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_rest_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_rest_core_3_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_rest_webmvc_3_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_hateoas_spring_hateoas_1_0_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_2_0_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-configuration-properties/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-configuration-properties/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-configuration-properties/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-configuration-properties/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-configuration-properties/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-configuration-properties/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-configuration-properties/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-configuration-properties/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-configuration-properties/src/main/java/com/example/demo/HDDAppProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-configuration-properties/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-configuration-properties/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-configuration-properties/src/test/java/com/example/demo/DemoApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-exception-handling-exception-handler-restcontroller-advice-response-status/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-exception-handling-exception-handler-restcontroller-advice-response-status/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-exception-handling-exception-handler-restcontroller-advice-response-status/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-exception-handling-exception-handler-restcontroller-advice-response-status/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-exception-handling-exception-handler-restcontroller-advice-response-status/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-exception-handling-exception-handler-restcontroller-advice-response-status/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-exception-handling-exception-handler-restcontroller-advice-response-status/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-exception-handling-exception-handler-restcontroller-advice-response-status/src/main/java/com/example/demo/ApiExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-exception-handling-exception-handler-restcontroller-advice-response-status/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-exception-handling-exception-handler-restcontroller-advice-response-status/src/main/java/com/example/demo/ErrorMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-exception-handling-exception-handler-restcontroller-advice-response-status/src/main/java/com/example/demo/RestApiController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-exception-handling-exception-handler-restcontroller-advice-response-status/src/main/java/com/example/demo/Todo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-exception-handling-exception-handler-restcontroller-advice-response-status/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-exception-handling-exception-handler-restcontroller-advice-response-status/src/test/java/com/example/demo/DemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-spring-profile/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-spring-profile/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-spring-profile/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-spring-profile/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-spring-profile/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-spring-profile/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-spring-profile/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-spring-profile/src/main/java/com/example/demo/ApplicationInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-spring-profile/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-spring-profile/src/main/java/com/example/demo/LocalDatasource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-spring-profile/src/main/java/com/example/demo/LocalDatasourceConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-spring-profile/src/main/resources/application-aws.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-spring-profile/src/main/resources/application-common.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-spring-profile/src/main/resources/application-local.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-spring-profile/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-spring-profile/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-spring-profile/src/test/java/com/example/demo/DemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-test-spring-boot/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-test-spring-boot/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-test-spring-boot/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-test-spring-boot/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-test-spring-boot/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-test-spring-boot/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-test-spring-boot/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-test-spring-boot/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-test-spring-boot/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-test-spring-boot/src/test/java/com/example/demo/DemoApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-thymeleaf-mysql-i18n-web-demo/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-thymeleaf-mysql-i18n-web-demo/src/main/resources/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,10 +86,10 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/springboot-thymeleaf-mysql-i18n-web-demo/src/main/resources/templates" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -119,7 +113,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.DemoApplication (5)">
+  <component name="RunManager" selected="Spring Boot.DemoApplication (4)">
     <configuration name="DemoApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="springboot-restfull-api-pathraviable-requestbody" />
       <extension name="coverage">
@@ -159,21 +153,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoApplication (5)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="springboot-configuration-properties" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DemoApplication (6)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="springboot-jpa-method-query" />
+    <configuration name="DemoApplication (4)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springboot-spring-profile" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.demo.*" />
@@ -186,19 +167,42 @@
       </method>
     </configuration>
     <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="demo" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <option name="ACTIVE_PROFILES" value="aws" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springboot-configuration-properties" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <option name="ACTIVE_PROFILES" value="aws" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.DemoApplication" />
+      <item itemvalue="Spring Boot.DemoApplication (1)" />
+      <item itemvalue="Spring Boot.DemoApplication (2)" />
+      <item itemvalue="Spring Boot.DemoApplication (3)" />
+      <item itemvalue="Spring Boot.DemoApplication (4)" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.DemoApplication (5)" />
+        <item itemvalue="Spring Boot.DemoApplication (4)" />
+        <item itemvalue="Spring Boot.DemoApplication" />
         <item itemvalue="Spring Boot.DemoApplication (2)" />
         <item itemvalue="Spring Boot.DemoApplication (3)" />
         <item itemvalue="Spring Boot.DemoApplication (1)" />
-        <item itemvalue="Spring Boot.DemoApplication (6)" />
       </list>
     </recent_temporary>
   </component>
@@ -212,6 +216,11 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
@@ -249,7 +258,7 @@
       <workItem from="1585030608558" duration="3068000" />
       <workItem from="1585035755517" duration="7311000" />
       <workItem from="1585186327130" duration="6620000" />
-      <workItem from="1585205316167" duration="2367000" />
+      <workItem from="1585205316167" duration="6286000" />
     </task>
     <servers />
   </component>
@@ -260,6 +269,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585211266101">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585211266101" />
     <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1584949259427">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -272,63 +285,63 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584955969931" />
-    <state width="1474" height="260" key="GridCell.Tab.0.bottom" timestamp="1585207872798">
+    <state width="1474" height="260" key="GridCell.Tab.0.bottom" timestamp="1585213607216">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1474" height="260" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585207872798" />
+    <state width="1474" height="260" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585213607216" />
     <state width="1474" height="260" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585198537029" />
-    <state width="1474" height="260" key="GridCell.Tab.0.center" timestamp="1585207872798">
+    <state width="1474" height="260" key="GridCell.Tab.0.center" timestamp="1585213607216">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1474" height="260" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585207872798" />
+    <state width="1474" height="260" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585213607216" />
     <state width="1474" height="260" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585198537028" />
-    <state width="1474" height="260" key="GridCell.Tab.0.left" timestamp="1585207872798">
+    <state width="1474" height="260" key="GridCell.Tab.0.left" timestamp="1585213607216">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1474" height="260" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585207872798" />
+    <state width="1474" height="260" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585213607216" />
     <state width="1474" height="260" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585198537028" />
-    <state width="1474" height="260" key="GridCell.Tab.0.right" timestamp="1585207872798">
+    <state width="1474" height="260" key="GridCell.Tab.0.right" timestamp="1585213607216">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1474" height="260" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585207872798" />
+    <state width="1474" height="260" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585213607216" />
     <state width="1474" height="260" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585198537029" />
-    <state width="1474" height="260" key="GridCell.Tab.1.bottom" timestamp="1585207872799">
+    <state width="1474" height="260" key="GridCell.Tab.1.bottom" timestamp="1585213607217">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1474" height="260" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585207872799" />
+    <state width="1474" height="260" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585213607217" />
     <state width="1474" height="260" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585198537030" />
-    <state width="1474" height="260" key="GridCell.Tab.1.center" timestamp="1585207872799">
+    <state width="1474" height="260" key="GridCell.Tab.1.center" timestamp="1585213607217">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1474" height="260" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585207872799" />
+    <state width="1474" height="260" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585213607217" />
     <state width="1474" height="260" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585198537029" />
-    <state width="1474" height="260" key="GridCell.Tab.1.left" timestamp="1585207872799">
+    <state width="1474" height="260" key="GridCell.Tab.1.left" timestamp="1585213607217">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1474" height="260" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585207872799" />
+    <state width="1474" height="260" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585213607217" />
     <state width="1474" height="260" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585198537029" />
-    <state width="1474" height="260" key="GridCell.Tab.1.right" timestamp="1585207872799">
+    <state width="1474" height="260" key="GridCell.Tab.1.right" timestamp="1585213607217">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1474" height="260" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585207872799" />
+    <state width="1474" height="260" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585213607217" />
     <state width="1474" height="260" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585198537029" />
     <state x="490" y="175" key="Maven.ArtifactSearchDialog" timestamp="1584946687867">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="490" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584946687867" />
-    <state x="414" y="103" key="SettingsEditor" timestamp="1584956725769">
+    <state x="414" y="103" key="SettingsEditor" timestamp="1585211254152">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="103" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584956725769" />
+    <state x="414" y="103" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585211254152" />
     <state x="2556" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585205315850">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="636" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585187865714" />
     <state x="2556" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585205315850" />
-    <state x="342" y="218" key="new project wizard" timestamp="1585206731462">
+    <state x="342" y="218" key="new project wizard" timestamp="1585215166541">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="342" y="218" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585206731462" />
+    <state x="342" y="218" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585215166541" />
     <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1585193458091">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>

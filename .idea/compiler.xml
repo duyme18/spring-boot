@@ -15,6 +15,7 @@
         <module name="springboot-jpa-method-query" />
         <module name="springboot-autowired-primary-qualifer" />
         <module name="springboot-exception-handling-exception-handler-restcontroller-advice-response-status" />
+        <module name="springboot-spring-profile" />
         <module name="springboot-jpa-mysql" />
         <module name="springboot-component-scan" />
         <module name="springboot-component-autowired" />
@@ -40,6 +41,7 @@
       <module name="springboot-jpa-mysql" target="1.8" />
       <module name="springboot-requestmapping-postmapping-modelattribute-requestparam" target="1.8" />
       <module name="springboot-restfull-api-pathraviable-requestbody" target="1.8" />
+      <module name="springboot-spring-profile" target="1.8" />
       <module name="springboot-springapplicationconfig-value" target="1.8" />
       <module name="springboot-springconfiguration-bean" target="1.8" />
       <module name="springboot-thymeleaf-expression-full" target="1.8" />
@@ -63,6 +65,7 @@
       <module name="springboot-jpa-mysql" options="-parameters" />
       <module name="springboot-requestmapping-postmapping-modelattribute-requestparam" options="-parameters" />
       <module name="springboot-restfull-api-pathraviable-requestbody" options="-parameters" />
+      <module name="springboot-spring-profile" options="-parameters" />
       <module name="springboot-springapplicationconfig-value" options="-parameters" />
       <module name="springboot-springconfiguration-bean" options="-parameters" />
       <module name="springboot-thymeleaf-expression-full" options="-parameters" />
