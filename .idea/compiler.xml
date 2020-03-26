@@ -19,6 +19,7 @@
         <module name="springboot-jpa-mysql" />
         <module name="springboot-component-scan" />
         <module name="springboot-component-autowired" />
+        <module name="springboot-test-spring-boot" />
         <module name="springboot-restfull-api-pathraviable-requestbody" />
         <module name="springboot-thymeleaf-expression-full" />
         <module name="springboot-springapplicationconfig-value" />
@@ -44,6 +45,7 @@
       <module name="springboot-spring-profile" target="1.8" />
       <module name="springboot-springapplicationconfig-value" target="1.8" />
       <module name="springboot-springconfiguration-bean" target="1.8" />
+      <module name="springboot-test-spring-boot" target="1.8" />
       <module name="springboot-thymeleaf-expression-full" target="1.8" />
       <module name="springboot-thymeleaf-mysql-i18n-web-demo" target="1.8" />
       <module name="springboot-web-helloworld-controller-thymeleaf" target="1.8" />
@@ -68,6 +70,7 @@
       <module name="springboot-spring-profile" options="-parameters" />
       <module name="springboot-springapplicationconfig-value" options="-parameters" />
       <module name="springboot-springconfiguration-bean" options="-parameters" />
+      <module name="springboot-test-spring-boot" options="-parameters" />
       <module name="springboot-thymeleaf-expression-full" options="-parameters" />
       <module name="springboot-thymeleaf-mysql-i18n-web-demo" options="-parameters" />
       <module name="springboot-web-helloworld-controller-thymeleaf" options="-parameters" />
