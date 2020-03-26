@@ -20,6 +20,7 @@
         <option value="$PROJECT_DIR$/springboot-jpa-mysql/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-jpa-method-query/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-thymeleaf-mysql-i18n-web-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-restfull-api-pathraviable-requestbody/pom.xml" />
       </list>
     </option>
   </component>

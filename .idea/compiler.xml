@@ -7,19 +7,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springboot-requestmapping-postmapping-modelattribute-requestparam" />
-        <module name="springboot-component-scan" />
-        <module name="springboot-conponent-service-repository" />
         <module name="springboot-thymeleaf-mysql-i18n-web-demo" />
-        <module name="springboot-autowired-primary-qualifer" />
-        <module name="springboot-springapplicationconfig-value" />
-        <module name="springboot-jpa-method-query" />
-        <module name="springboot-jpa-mysql" />
-        <module name="springboot-component-autowired" />
+        <module name="springboot-requestmapping-postmapping-modelattribute-requestparam" />
+        <module name="springboot-conponent-service-repository" />
         <module name="springboot-configuration-bean" />
-        <module name="springboot-web-helloworld-controller-thymeleaf" />
-        <module name="springboot-thymeleaf-expression-full" />
         <module name="springboot-beanlifecycle-postcontruct-predestroy" />
+        <module name="springboot-jpa-method-query" />
+        <module name="springboot-autowired-primary-qualifer" />
+        <module name="springboot-jpa-mysql" />
+        <module name="springboot-component-scan" />
+        <module name="springboot-component-autowired" />
+        <module name="springboot-restfull-api-pathraviable-requestbody" />
+        <module name="springboot-thymeleaf-expression-full" />
+        <module name="springboot-springapplicationconfig-value" />
+        <module name="springboot-web-helloworld-controller-thymeleaf" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -34,6 +35,7 @@
       <module name="springboot-jpa-method-query" target="1.8" />
       <module name="springboot-jpa-mysql" target="1.8" />
       <module name="springboot-requestmapping-postmapping-modelattribute-requestparam" target="1.8" />
+      <module name="springboot-restfull-api-pathraviable-requestbody" target="1.8" />
       <module name="springboot-springapplicationconfig-value" target="1.8" />
       <module name="springboot-springconfiguration-bean" target="1.8" />
       <module name="springboot-thymeleaf-expression-full" target="1.8" />
@@ -54,6 +56,7 @@
       <module name="springboot-jpa-method-query" options="-parameters" />
       <module name="springboot-jpa-mysql" options="-parameters" />
       <module name="springboot-requestmapping-postmapping-modelattribute-requestparam" options="-parameters" />
+      <module name="springboot-restfull-api-pathraviable-requestbody" options="-parameters" />
       <module name="springboot-springapplicationconfig-value" options="-parameters" />
       <module name="springboot-springconfiguration-bean" options="-parameters" />
       <module name="springboot-thymeleaf-expression-full" options="-parameters" />
