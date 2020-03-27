@@ -18,11 +18,12 @@
         <module name="springboot-exception-handling-exception-handler-restcontroller-advice-response-status" />
         <module name="springboot-spring-profile" />
         <module name="springboot-jpa-mysql" />
+        <module name="springboot-jpa-hibernate" />
         <module name="springboot-component-scan" />
         <module name="springboot-component-autowired" />
-        <module name="springboot-test-spring-boot" />
-        <module name="springboot-restfull-api-pathraviable-requestbody" />
         <module name="springboot-thymeleaf-expression-full" />
+        <module name="springboot-restfull-api-pathraviable-requestbody" />
+        <module name="springboot-test-spring-boot" />
         <module name="springboot-springapplicationconfig-value" />
         <module name="springboot-configuration-properties" />
         <module name="springboot-web-helloworld-controller-thymeleaf" />
@@ -39,6 +40,7 @@
       <module name="springboot-configuration-properties" target="1.8" />
       <module name="springboot-conponent-service-repository" target="1.8" />
       <module name="springboot-exception-handling-exception-handler-restcontroller-advice-response-status" target="1.8" />
+      <module name="springboot-jpa-hibernate" target="1.8" />
       <module name="springboot-jpa-method-query" target="1.8" />
       <module name="springboot-jpa-mysql" target="1.8" />
       <module name="springboot-requestmapping-postmapping-modelattribute-requestparam" target="1.8" />
@@ -65,6 +67,7 @@
       <module name="springboot-configuration-properties" options="-parameters" />
       <module name="springboot-conponent-service-repository" options="-parameters" />
       <module name="springboot-exception-handling-exception-handler-restcontroller-advice-response-status" options="-parameters" />
+      <module name="springboot-jpa-hibernate" options="-parameters" />
       <module name="springboot-jpa-method-query" options="-parameters" />
       <module name="springboot-jpa-mysql" options="-parameters" />
       <module name="springboot-requestmapping-postmapping-modelattribute-requestparam" options="-parameters" />

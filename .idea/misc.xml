@@ -26,6 +26,7 @@
         <option value="$PROJECT_DIR$/springboot-spring-profile/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-test-spring-boot/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-spring-security/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-jpa-hibernate/pom.xml" />
       </list>
     </option>
   </component>
