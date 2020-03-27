@@ -10,6 +10,7 @@
         <module name="springboot-thymeleaf-mysql-i18n-web-demo" />
         <module name="springboot-spring-security" />
         <module name="springboot-requestmapping-postmapping-modelattribute-requestparam" />
+        <module name="springboot-spring-security-jwt-json-web-token-hibernate" />
         <module name="springboot-conponent-service-repository" />
         <module name="springboot-configuration-bean" />
         <module name="springboot-beanlifecycle-postcontruct-predestroy" />
@@ -47,6 +48,7 @@
       <module name="springboot-restfull-api-pathraviable-requestbody" target="1.8" />
       <module name="springboot-spring-profile" target="1.8" />
       <module name="springboot-spring-security" target="1.8" />
+      <module name="springboot-spring-security-jwt-json-web-token-hibernate" target="1.8" />
       <module name="springboot-springapplicationconfig-value" target="1.8" />
       <module name="springboot-springconfiguration-bean" target="1.8" />
       <module name="springboot-test-spring-boot" target="1.8" />
@@ -74,6 +76,7 @@
       <module name="springboot-restfull-api-pathraviable-requestbody" options="-parameters" />
       <module name="springboot-spring-profile" options="-parameters" />
       <module name="springboot-spring-security" options="-parameters" />
+      <module name="springboot-spring-security-jwt-json-web-token-hibernate" options="-parameters" />
       <module name="springboot-springapplicationconfig-value" options="-parameters" />
       <module name="springboot-springconfiguration-bean" options="-parameters" />
       <module name="springboot-test-spring-boot" options="-parameters" />
